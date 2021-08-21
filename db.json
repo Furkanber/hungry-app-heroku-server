@@ -40,8 +40,8 @@
       ],
       "email": "ipek@gmail.com",
       "id": 2,
-      "name": "İpek",
-      "password": "akkuzu123",
+      "name": "Nisan",
+      "password": "ipek1234",
       "phone_number": "+905987652144",
       "photo_url": "https://media.istockphoto.com/vectors/latin-american-head-in-profile-hispanic-woman-races-and-nationalities-vector-id1173613806?k=6&m=1173613806&s=612x612&w=0&h=Jo4aCZPeVyQPWOnN-LrGSY_iGKz8CkwAgcbiKLtOJso=",
       "surname": "Akkuzu"
@@ -50,7 +50,7 @@
       "id": 3,
       "email": "engin@hotmail.com",
       "name": "Engin",
-      "password": "EnGinGul1996",
+      "password": "engin1996",
       "phone_number": "+90559998844",
       "photo_url": "https://thumbs.dreamstime.com/z/men-emotions-face-man-beard-face-man-beard-108204342.jpg",
       "surname": "Gul",
@@ -61,46 +61,46 @@
     {
       "address": {
         "add_date": "2021-27-07 19:35",
-        "address": "Moda No:23",
-        "city": "Istanbul",
-        "district": "Kadikoy",
+        "address": "Fenerbahce Mah. No:12",
+        "city": "Kadikoy",
+        "district": "Fenerbahce",
         "last_update": "2021-27-07 19:35",
         "title": "Company Address"
       },
       "average_delivery_time": 30,
-      "id": 2,
+      "id": 1,
       "menu": [
         {
           "food_id": 1,
-          "ingredients": "Tomato, Lettuce, Ketchup, Mayo, Pickles, Cheddar",
-          "name": "Cheeseburger",
-          "photo_url": "https://cdn.firsatbufirsat.com/files/images/deal-image/image/1200x1200/609/6090094_59a5.jpg?r=2",
+          "ingredients": " Tomato, Lettuce, Ketchup, Mayonnaise, Burger Sauce, Pickles, Onion, Cheddar",
+          "name": "Hamburger",
+          "photo_url": "https://assets.bonappetit.com/photos/5d1cb1880813410008e914fc/3:2/w_1997,h_1331,c_limit/Print-Summer-Smash-Burger.jpg",
           "price": 40
         },
         {
           "food_id": 2,
-          "ingredients": "Pizza Sauce, Mozeralla, Pepperoni, Sausage, Pepper, Mushroom",
-          "name": "Small Pizza",
-          "photo_url": "https://www.livashop.com/Uploads/UrunResimleri/buyuk/karisik-pizza-e7f8.jpg",
-          "price": 32
+          "ingredients": " Pizza Sauce, Mozeralla, Pepperoni, Pesto Sauce, Bell Pepper, Mushroom",
+          "name": "Special Pizza",
+          "photo_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/216054.jpg",
+          "price": 45
         },
         {
           "food_id": 3,
-          "ingredients": "Pizza Sauce, Mozeralla, Pepperoni, Bell Pepper, Mushroom, Sweetcorn",
-          "name": "Middle Pizza",
-          "photo_url": "https://www.livashop.com/Uploads/UrunResimleri/buyuk/karisik-pizza-e7f8.jpg",
-          "price": 42
+          "ingredients": " Ketchup, Mayonnaise, Mustard, Cajun Spices",
+          "name": "French Fries",
+          "photo_url": "https://static.toiimg.com/thumb/54659021.cms?width=1200&height=900",
+          "price": 25
         },
         {
           "food_id": 4,
-          "ingredients": "Pizza Sauce, Mozeralla, Pepperoni, Sausage, Pepper, Mushroom",
-          "name": "Large Pizza",
-          "photo_url": "https://www.livashop.com/Uploads/UrunResimleri/buyuk/karisik-pizza-e7f8.jpg",
-          "price": 58
+          "ingredients": " Ranch Sauce, BBQ Sauce",
+          "name": "Chicken Tenders",
+          "photo_url": "https://www.thespruceeats.com/thmb/vDlaVREm3DdAUHEJeUqv53zbWao=/4256x2832/filters:fill(auto,1)/spicy-fried-chicken-strips-3056880-hero-01-e5bad43e0d3441749f17c1b98b5486c2.jpg",
+          "price": 40
         }
       ],
       "min_order": 30,
-      "name": "Midpoint",
+      "name": "Happy Moon's",
       "owner": {
         "email": "ali@burgerking.com",
         "name": "Ali",
@@ -109,16 +109,16 @@
         "surname": "Kaya"
       },
       "phone_number": "4441234",
-      "photo_url": "user.png",
+      "photo_url": "https://ufrad.org.tr/assets/upload/media/image/media5ce69e6cc9e3b.jpg",
       "point": 4,
       "review": "Not good."
     },
     {
       "address": {
         "add_date": "Wed Aug 11 19:32:36 GMT 2021",
-        "address": "Yunus Emre Mh. ",
-        "city": "Izmir",
-        "district": "Karabaglar",
+        "address": "Validebag Cad. No:4",
+        "city": "Uskudar",
+        "district": "Kosuyolu",
         "last_update": "Wed Aug 11 19:32:36 GMT 2021",
         "title": "Company Address"
       },
@@ -126,21 +126,21 @@
       "menu": [
         {
           "food_id": 1,
-          "ingredients": "Tomato, Lemon, Mustard, Rocket",
+          "ingredients": " Tomato, Lemon, Mustard, Rocket",
           "name": "Salmon Steak",
           "photo_url": "https://healthyrecipesblogs.com/wp-content/uploads/2021/04/salmon-steak-11-2021.jpg",
           "price": 60
         },
         {
           "food_id": 2,
-          "ingredients": "Mushroom, Pepper",
+          "ingredients": " Mushroom, Pepper",
           "name": "Shrimp Sauté",
           "photo_url": "https://images.themodernproper.com/billowy-turkey/production/posts/Shrimp-Fajitas-8.jpg?w=1200&h=1200&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1612803180&s=3e3088bc9c1acb9ab46a21101e082b75",
           "price": 52
         }
       ],
       "min_order": 40,
-      "name": "Fish World",
+      "name": "Fish Palace",
       "owner": {
         "email": "",
         "name": "",
@@ -149,17 +149,17 @@
         "surname": ""
       },
       "phone_number": "+095341111111",
-      "photo_url": "",
+      "photo_url": "https://www.saveur.com/uploads/2019/03/04/GZU6HISCWM7SHGMCGXKIQG3CBU.jpg?width=785",
       "point": 5,
       "review": "Super!",
-      "id": 12312344
+      "id": 2
     },
     {
       "address": {
         "add_date": "Wed Aug 11 19:36:05 GMT 2021",
-        "address": "",
-        "city": "Istanbul",
-        "district": "Kadikoy",
+        "address": "Moda Cad. No:27/A",
+        "city": "Kadikoy",
+        "district": "Moda",
         "last_update": "Wed Aug 11 19:36:05 GMT 2021",
         "title": "Company Address"
       },
@@ -180,7 +180,7 @@
           "price": 20
         }
       ],
-      "min_order": 20,
+      "min_order": 25,
       "name": "Donuts World",
       "owner": {
         "email": "",
@@ -190,10 +190,188 @@
         "surname": ""
       },
       "phone_number": "+902122222222",
-      "photo_url": "",
+      "photo_url": "https://media.istockphoto.com/photos/colorful-sweet-background-delicious-glazed-donuts-on-pink-background-picture-id1157621780?k=6&m=1157621780&s=612x612&w=0&h=jQhOSTLYP9fGK-nE1DNitL0lIvKa0h3VSvAqbSPz5PA=",
       "point": 5,
       "review": "Great!",
-      "id": 12312345
+      "id": 3
+    },
+    {
+      "address": {
+        "add_date": "Wed Aug 11 19:36:05 GMT 2021",
+        "address": "Bostanci İskelesi No:1",
+        "city": "Bostanci",
+        "district": "Merkez",
+        "last_update": "Wed Aug 11 19:36:05 GMT 2021",
+        "title": "Company Address"
+      },
+      "average_delivery_time": 25,
+      "menu": [
+        {
+          "food_id": 1,
+          "ingredients": " Milk, Sugar",
+          "name": "Filter Coffee",
+          "photo_url": "https://traditionallymodernfood.com/wp-content/uploads/2020/04/filter-coffee-filter-kaapi-kumbakonum-degree-cofee-2048x1736.jpeg",
+          "price": 20
+        },
+        {
+          "food_id": 2,
+          "ingredients": "Powder Sugar",
+          "name": "Carrot Cake",
+          "photo_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2007/2/16/0/ry0401_carrotcake.jpg.rend.hgtvcom.616.462.suffix/1552488933139.jpeg",
+          "price": 25
+        }
+      ],
+      "min_order": 20,
+      "name": "Coffee Break",
+      "owner": {
+        "email": "",
+        "name": "",
+        "password": "",
+        "phone_number": "",
+        "surname": ""
+      },
+      "phone_number": "+902122222222",
+      "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_33/2203981/171026-better-coffee-boost-se-329p.jpg",
+      "point": 4,
+      "review": "Great!",
+      "id": 4
+    },
+    {
+      "address": {
+        "add_date": "Wed Aug 11 19:36:05 GMT 2021",
+        "address": "Altiyol No:5",
+        "city": "Kadikoy",
+        "district": "Caferaga",
+        "last_update": "Wed Aug 11 19:36:05 GMT 2021",
+        "title": "Company Address"
+      },
+      "average_delivery_time": 40,
+      "menu": [
+        {
+          "food_id": 1,
+          "ingredients": " Pepperoni, Smoked Turkey, Chicken, Beef, Cheddar, Mozarella, Lettuce, Tomato, Pickles, Olives, Sweetcorn, Onion, BBQ Sauce, Ranch Sauce, Hot Sauce",
+          "name": "Sandwich 15 cm",
+          "photo_url": "https://buy.am/media/image/e3/d7/65/Caesar-sandwich-15cm-12-Ktor-PizzaS11t5IEePLNr4_600x600.jpg",
+          "price": 30
+        },
+        {
+          "food_id": 2,
+          "ingredients": " Pepperoni, Smoked Turkey, Chicken, Beef, Cheddar, Mozarella, Lettuce, Tomato, Pickles, Olives, Sweetcorn, Onion, BBQ Sauce, Ranch Sauce, Hot Sauce",
+          "name": "Sandwich 30 cm",
+          "photo_url": "https://buy.am/media/image/13/09/70/Sandwich-with-chicken-breast-and-bacon-30cm-12-Ktor-PizzacZ0woRzjRxZYU_600x600.jpg",
+          "price": 45
+        }
+      ],
+      "min_order": 30,
+      "name": "Sandwich Club",
+      "owner": {
+        "email": "",
+        "name": "",
+        "password": "",
+        "phone_number": "",
+        "surname": ""
+      },
+      "phone_number": "+902122222222",
+      "photo_url": "https://buy.am/media/image/13/09/70/Sandwich-with-chicken-breast-and-bacon-30cm-12-Ktor-PizzacZ0woRzjRxZYU_600x600.jpg",
+      "point": 3,
+      "review": "Not Bad",
+      "id": 5
+    },
+    {
+      "address": {
+        "add_date": "Wed Aug 11 19:36:05 GMT 2021",
+        "address": "Acibadem Cad. No:13/B",
+        "city": "Uskudar",
+        "district": "Acibadem",
+        "last_update": "Wed Aug 11 19:36:05 GMT 2021",
+        "title": "Company Address"
+      },
+      "average_delivery_time": 15,
+      "menu": [
+        {
+          "food_id": 1,
+          "ingredients": " Soy Sauce, Mushroom, Pepper, Cabbage, Soy Sprouts, Carrot",
+          "name": "Chicken Noodle",
+          "photo_url": "https://i.pinimg.com/originals/86/0e/0d/860e0dcfa62f5b93fccd6c98bb5b3386.png",
+          "price": 45
+        },
+        {
+          "food_id": 2,
+          "ingredients": " Soy Sauce, Mushroom, Pepper, Cabbage, Soy Sprouts, Carrot, Eggs",
+          "name": "Chicken Ramen",
+          "photo_url": "https://cdn.yemek.com/mnresize/940/940/uploads/2018/08/ramen-tarifi.jpg",
+          "price": 50
+        },
+        {
+          "food_id": 3,
+          "ingredients": " Soy Sauce",
+          "name": "California Roll",
+          "photo_url": "https://norecipes.com/wp-content/uploads/2012/07/california-roll-012.jpg",
+          "price": 40
+        }
+      ],
+      "min_order": 20,
+      "name": "Asian Express",
+      "owner": {
+        "email": "",
+        "name": "",
+        "password": "",
+        "phone_number": "",
+        "surname": ""
+      },
+      "phone_number": "+902122222222",
+      "photo_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1214757157.png",
+      "point": 5,
+      "review": "Goood!",
+      "id": 6
+    },
+    {
+      "address": {
+        "add_date": "Wed Aug 11 19:36:05 GMT 2021",
+        "address": "Kadife Sok. No:2",
+        "city": "Kadikoy",
+        "district": "Moda",
+        "last_update": "Wed Aug 11 19:36:05 GMT 2021",
+        "title": "Company Address"
+      },
+      "average_delivery_time": 30,
+      "menu": [
+        {
+          "food_id": 1,
+          "ingredients": " Minced Beef, Onion, Spices, Tomato, Lettuce, Avocado",
+          "name": "Beef Taco",
+          "photo_url": "https://www.jessicagavin.com/wp-content/uploads/2019/05/ground-beef-tacos-4-1200.jpg",
+          "price": 50
+        },
+        {
+          "food_id": 2,
+          "ingredients": " Chicken, Onion, Spices, Tomato, Lettuce, Avocado, White Sauce",
+          "name": "Chicken Taco",
+          "photo_url": "https://gimmedelicious.com/wp-content/uploads/2019/01/Quick-Chicken-Tacos-food-truck-style-9.jpg",
+          "price": 45
+        },
+        {
+          "food_id": 3,
+          "ingredients": " Cheese, Parsley, Fresh Onion",
+          "name": "Quesadilla",
+          "photo_url": "https://www.simplyrecipes.com/thmb/cPoqw1tOQzgGiGvMyDAwpU3enmg=/1584x1584/smart/filters:no_upscale()/Simply-Recipes-Quesadilla-LEAD-5-55da42a2a306497c85b1328385e44d85.jpg",
+          "price": 40
+        }
+      ],
+      "min_order": 30,
+      "name": "Taco Fest",
+      "owner": {
+        "email": "",
+        "name": "",
+        "password": "",
+        "phone_number": "",
+        "surname": ""
+      },
+      "phone_number": "+902122222222",
+      "photo_url": "https://img.acunn.com/uploads/icerikler/2020/07/28/taco-tarifi3938390385f2090d708179.jpg",
+      "point": 4,
+      "review": "Nice!",
+      "id": 7
     }
   ],
   "orders": [
@@ -239,7 +417,7 @@
       ],
       "restaurant_id": 1,
       "status": 3,
-      "user_id": 1,
+      "user_id": 2,
       "id": 3
     },
     {
@@ -269,7 +447,7 @@
       ],
       "restaurant_id": 2,
       "status": 3,
-      "user_id": 1,
+      "user_id": 2,
       "id": 5
     },
     {
